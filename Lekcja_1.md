@@ -1,4 +1,4 @@
-**Instrukcja włączenia/wyłączenia komputera.**
+#**Instrukcja włączenia/wyłączenia komputera.**
 
 
 **Słowa klucze: komputer, monitor, myszka bezprzewodowa, klawiatura bezprzewodowa**

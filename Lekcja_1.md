@@ -1,7 +1,7 @@
 # **Instrukcja włączenia/wyłączenia komputera.**
 
 
-## **Słowa klucze: komputer, monitor, myszka bezprzewodowa, klawiatura bezprzewodowa**
+**Słowa klucze: komputer, monitor, myszka bezprzewodowa, klawiatura bezprzewodowa**
 
 Pakiet startowy:
 1.	Komputer [model]

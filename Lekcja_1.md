@@ -26,6 +26,6 @@ Jak uruchomić komputer w 10 krokach:
 10.	Przesuń strzałkę myszki na „Zamknij” i kliknij lewy przycisk myszy. Komputer się wyłączy
 
 
-**Brawo! Pierwsza lekcja za nami. To dopiero początek naszej przygody!**
+### **Brawo! Pierwsza lekcja za nami. To dopiero początek naszej przygody!**
 
 

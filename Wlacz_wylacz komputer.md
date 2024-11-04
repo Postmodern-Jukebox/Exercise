@@ -1,7 +1,7 @@
-Instrukcja włączenia/wyłączenia  komputera.
+**Instrukcja włączenia/wyłączenia komputera.**
 
 
-Słowa klucze: komputer, monitor, myszka bezprzewodowa, klawiatura bezprzewodowa
+**Słowa klucze: komputer, monitor, myszka bezprzewodowa, klawiatura bezprzewodowa**
 
 Pakiet startowy:
 1.	Komputer [model]
@@ -26,6 +26,6 @@ Jak uruchomić komputer w 10 krokach:
 10.	Przesuń strzałkę myszki na „Zamknij” i kliknij lewy przycisk myszy. Komputer się wyłączy
 
 
-Brawo! Pierwsza lekcja za nami. To dopiero początek naszej przygody!
+**Brawo! Pierwsza lekcja za nami. To dopiero początek naszej przygody!**
 
 

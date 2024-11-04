@@ -13,7 +13,7 @@ Jak uruchomić komputer w 10 krokach:
 1.	Sprawdź, czy komputer jest podłączony do prądu
 2.	Upewnij się, że myszka ma w środku baterie
 3.	Upewnij się, że klawiatura ma w środku baterie
-4.	Na komputerze - wciśnij przycisk „włącz/wyłącz”
+4.	Na komputerze - wciśnij przycisk „włącz/wyłącz” ![On/off button](H:\DOMINIKA\DOMINIKA\dominika nowy\2024\TECH DOC PORTFOLIO\ON_OFF_BUTTON.jpg)
 5.	Włącz monitor [instrukcja zależna od używanego modelu] 
 6.	Upewnij się, że myszka działa :
 * porusz myszką i sprawdź czy na ekranie widzisz strzałkę                

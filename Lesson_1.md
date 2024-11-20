@@ -1,4 +1,4 @@
-**Instruction on how to turn on/off your computer.**
+# **Instruction on how to turn on/off your computer.**
 
 
 **Key words: computer, monitor, wireless mouse, wireless keyboard**
@@ -36,4 +36,4 @@ How to turn your computer on/off in 10 steps:
 10.	Move the mouse arrow to „Shutdown” and left click. The computer will turn off.
 
 
-**Congratulations! You have completed the first lesson. Our journey just begins!**
+# **Congratulations! You have completed the first lesson. Our journey just begins!**
